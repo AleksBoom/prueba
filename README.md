@@ -3,4 +3,6 @@
 Creacion de una cuenta
 Probamdo markdown en archivo readme
 
+Para instalar el sismetam debes ejecutar npm
+
 
