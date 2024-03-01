@@ -3,7 +3,9 @@
 Creacion de una cuenta
 Probamdo markdown en archivo readme
 
-Para instalar el sismetam debes ejecutar npm
-Mi segundo sistema
+Para instalar el sismetam debes ejecutar 
+npm install react
+Sistema de registro
+
 
 
